@@ -4,5 +4,5 @@
 
 
 ### Hey, I'm Chloe! 👋  
-<p>💻 Computer Science Student</p>
+<p>💻 CS @Yorku</p>
 <p>⚙️ I use: <code>.ts</code>, <code>.js</code>, <code>.c</code>, <code>.cpp</code>, <code>.java</code>, <code>.sql</code>, <code>.py</code></p>
