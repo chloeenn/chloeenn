@@ -1,8 +1,7 @@
 
 
-<img align="left" src="https://github.com/user-attachments/assets/5af7e15e-dc55-41de-9b45-85a426591cf5" width="150"/> 
-
+<img align="left" src="https://github.com/user-attachments/assets/9133b0fe-7d0f-454b-b0ab-8eaa96b908d4" width="150"/> 
 
 ### Hey, I'm Chloe! 👋  
-<p>💻 CS @Yorku</p>
-<p>⚙️ I use: <code>.ts</code>, <code>.js</code>, <code>.c</code>, <code>.cpp</code>, <code>.java</code>, <code>.sql</code>, <code>.py</code></p>
+<p>💻 CS @YorkU</p>
+<p>⚙️ I use: <code>.ts</code>, <code>.js</code>, <code>.c</code>, <code>.cpp</code>, <code>.java</code>, <code>.sql</code>
