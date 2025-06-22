@@ -4,4 +4,4 @@
 
 ### Hey, I'm Chloe! 👋  
 <p>💻 CS @YorkU</p>
-<p>⚙️ I use: <code>.ts</code>, <code>.js</code>, <code>.c</code>, <code>.cpp</code>, <code>.java</code>, <code>.sql</code>
+<p>⚙️ I use: <code>.py</code>, <code>.ts</code>, <code>.js</code>, <code>.c</code>, <code>.cpp</code>, <code>.java</code>, <code>.sql</code>
