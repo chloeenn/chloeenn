@@ -5,3 +5,7 @@
 ### Hey, I'm Chloe! 👋  
 <p>💻 cs @ yorku</p>
 <p>⚙️ <code>.py</code>, <code>.ts</code>, <code>.java</code>, <code>.c</code>, <code>.cpp</code>, <code>.sql</code>
+  
+🔗 [personal website](https://chloe-dusky.vercel.app)
+
+
